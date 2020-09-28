@@ -39,3 +39,5 @@ Add a line such as
 # Useful Links
 
 https://prognotes.net/2016/08/configuring-local-lamp-stack-web-development/
+
+https://stackoverflow.com/questions/97984/how-to-secure-database-passwords-in-php
