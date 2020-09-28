@@ -4,12 +4,10 @@
 ```
 sudo nautlius
 ```
-Open flie system
+Open file system with admin rights on Ubuntu
 
+Chown could be used for permissions
 
-# Link
-
-https://prognotes.net/2016/08/configuring-local-lamp-stack-web-development/
 
 # Configure /etc/apache2/site-available
 
@@ -25,3 +23,19 @@ DocumentRoot /home/anthony/Code/phpdev/test
 ```
 
 # Configure Hosts
+
+```
+etc\hosts
+```
+
+Add a line such as 
+
+```
+127.0.0.1 mySiteName 
+```
+
+
+
+# Useful Links
+
+https://prognotes.net/2016/08/configuring-local-lamp-stack-web-development/

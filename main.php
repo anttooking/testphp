@@ -5,10 +5,13 @@
 </head>
 <body>
  
-<h1>Hello</h1>
+<h1>Kaput BETA</h1>
 <p>
-    <?php
-        echo "hello world"
+    <?php 
+        for ($x = 0; $x <= 10; $x++) {
+            
+            echo "<p> $x </p>";
+        }
     ?>
 </p>
 </body>
